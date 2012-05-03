@@ -1,3 +1,7 @@
 // Jasmine Sloan
+// Week 1 Project
+// VFW 1205
+// 05/02/2012
+// Big Oomp Records Mixtapes
 
 // https://github.com/jasminesloan/VFW-week1
